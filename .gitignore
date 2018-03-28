@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.idea
+dev.env
+dev-nb.ipynb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
